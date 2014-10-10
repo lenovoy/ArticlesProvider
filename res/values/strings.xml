@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">ArticlesProvider</string>
+    <string name="provider_label">Articles</string>
+    <string name="app_label">Articles Storage</string>
+
+</resources>
